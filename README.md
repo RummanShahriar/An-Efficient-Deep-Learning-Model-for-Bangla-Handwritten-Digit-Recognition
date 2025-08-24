@@ -33,4 +33,3 @@ This repository implements **EfficientCNN**, a custom CNN tailored for **32×32*
 - **DL Framework:** TensorFlow/Keras (or PyTorch alternative; update scripts accordingly)
 - **Data/Utils:** NumPy, Pandas, scikit-learn
 - **Visualization:** Matplotlib
-- **Logging/Config:** YAML / argparse
