@@ -2,7 +2,6 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Accuracy](https://img.shields.io/badge/accuracy-99.78%25-brightgreen)]()
 
 **EfficientCNN** is a custom deep learning architecture for recognizing handwritten Bangla digits. Designed for the **BHaND dataset** (32×32 grayscale images), it achieves **99.78% test accuracy** while being significantly more parameter‑efficient and faster than classic models like AlexNet, LeNet‑5, and MobileNetV2. The key innovation is the use of **Global Average Pooling (GAP)** instead of a flatten layer, which drastically reduces the number of parameters without sacrificing feature learning.
@@ -27,7 +26,6 @@
 - [Project Structure](#project-structure)
 - [Citation](#citation)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ---
 
@@ -272,14 +270,6 @@ Also cite the BHaND dataset:
 - **Shammo Biswas** (Research Assistant, BRAC University) for technical assistance.
 - The authors of the BHaND dataset for making it publicly available.
 
----
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-You are free to use, modify, and distribute this code for academic and commercial purposes, provided you give appropriate credit.
-
----
 
 ## Contact
 
