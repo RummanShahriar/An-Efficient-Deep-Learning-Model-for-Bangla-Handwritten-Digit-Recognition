@@ -1,6 +1,3 @@
-Here is the fully professional, emoji‑free README content ready for you to copy and paste directly into your GitHub repository.
-
-```markdown
 # EfficientCNN: A High-Performance Lightweight Model for Bangla Handwritten Digit Recognition
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -288,9 +285,5 @@ You are free to use, modify, and distribute this code for academic and commercia
 
 **Md. Rumman Shahriar**  
 [GitHub: RummanShahriar](https://github.com/RummanShahriar)  
-Email: md.rumman.shahriar@g.bracu.ac.bd  
 
 For issues or questions, please open an issue on this repository.
-```
-
-You can copy the entire block above and paste it directly into your `README.md` file. All emojis have been removed, and the tone is strictly professional while retaining all necessary information and structure.
